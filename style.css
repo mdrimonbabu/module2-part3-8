@@ -1,0 +1,47 @@
+
+.header{
+    height: 80px;
+    width: 100%;
+    background-color: aquamarine;
+}
+td{
+    border: 1px solid;
+    padding: 5px 20px;
+}
+h1{
+ font-family: 'Akronim', cursive;
+ color: green;
+ font-size: 50px;
+
+}
+h2{
+ font-family: 'Akronim', cursive;
+ color: rgb(179, 144, 33);
+
+}
+p{
+    font-family: 'Birthstone', cursive;
+    font-weight: 400;
+    color: rgb(51, 49, 50);
+    font-size: 24px;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.itm{
+    height: 100px;
+    width: 100%;
+    background-color: blue;
+    margin: 2px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+button:hover{
+    background: rgb(255, 101, 101) !important;
+}
